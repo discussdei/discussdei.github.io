@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Fairness and Implications</title>
+	<atom:link href="/category/ai-fairness-and-implications/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Nov 2020 22:30:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>AI Fairness and Implications</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Discrimination,Artificial Intelligence and Algorithmic Decision-making</title>
+		<link>/discriminationartificial-intelligence-and-algorithmic-decision-making/</link>
+					<comments>/discriminationartificial-intelligence-and-algorithmic-decision-making/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:30:08 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[AI Fairness and Implications]]></category>
+		<guid isPermaLink="false">/?p=514</guid>
+
+					<description><![CDATA[Study by Prof. Frederik Zuiderveen Borgesius https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">Study by Prof. Frederik Zuiderveen Borgesius</p>
+
+
+
+<p class="has-text-align-center"><a href="https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73">https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="643" height="617" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.29.19-PM.png" alt="" class="wp-image-515" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.29.19-PM.png 643w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.29.19-PM-300x288.png 300w" sizes="(max-width: 643px) 100vw, 643px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/discriminationartificial-intelligence-and-algorithmic-decision-making/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Optimized Pre-Processing for Discrimination Prevention</title>
+		<link>/optimized-pre-processing-for-discrimination-prevention/</link>
+					<comments>/optimized-pre-processing-for-discrimination-prevention/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:24:45 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=511</guid>
+
+					<description><![CDATA[By Flavio P. Calmon, Dennis Wei, Bhanukiran Vinzamuri, Karthikeyan Natesan Ramamurthy and Kush R. Varshney https://proceedings.neurips.cc/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Flavio P. Calmon, Dennis Wei, Bhanukiran Vinzamuri, Karthikeyan Natesan Ramamurthy and Kush R. Varshney</p>
+
+
+
+<p class="has-text-align-center"><a href="https://proceedings.neurips.cc/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf">https://proceedings.neurips.cc/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="927" height="358" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM.png" alt="" class="wp-image-512" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM.png 927w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM-300x116.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM-768x297.png 768w" sizes="(max-width: 927px) 100vw, 927px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/optimized-pre-processing-for-discrimination-prevention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Diversity and Inclusion Metrics in Subset Selection</title>
+		<link>/diversity-and-inclusion-metrics-in-subset-selection/</link>
+					<comments>/diversity-and-inclusion-metrics-in-subset-selection/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 21:55:38 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[DEI]]></category>
+		<guid isPermaLink="false">/?p=507</guid>
+
+					<description><![CDATA[By Margaret Mitchell, Dylan Baker, Nyalleng Moorosi, Emily Denton, Ben Hutchinson, Alex Hanna, Timnit Gebru and Jamie Morgenstern https://arxiv.org/pdf/2002.03256.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Margaret Mitchell, Dylan Baker, Nyalleng Moorosi, Emily Denton, Ben Hutchinson, Alex Hanna, Timnit Gebru and Jamie Morgenstern</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/2002.03256.pdf">https://arxiv.org/pdf/2002.03256.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.54.41-PM.png" alt="" class="wp-image-508" width="631" height="357" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.54.41-PM.png 576w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.54.41-PM-300x170.png 300w" sizes="(max-width: 631px) 100vw, 631px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/diversity-and-inclusion-metrics-in-subset-selection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination</title>
+		<link>/are-emily-and-greg-more-employable-than-lakisha-and-jamal-a-field-experiment-on-labor-market-discrimination/</link>
+					<comments>/are-emily-and-greg-more-employable-than-lakisha-and-jamal-a-field-experiment-on-labor-market-discrimination/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 01:21:22 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<guid isPermaLink="false">/?p=476</guid>
+
+					<description><![CDATA[By Marianne Bertrand &#38; Sendhil Mullainathan https://www.nber.org/papers/w9873]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Marianne Bertrand &amp; Sendhil Mullainathan</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.nber.org/papers/w9873">https://www.nber.org/papers/w9873</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="807" height="368" src="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.20.17.png" alt="" class="wp-image-477" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.20.17.png 807w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.20.17-300x137.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.20.17-768x350.png 768w" sizes="(max-width: 807px) 100vw, 807px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/are-emily-and-greg-more-employable-than-lakisha-and-jamal-a-field-experiment-on-labor-market-discrimination/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Explainable AI in Industry: Practical Challenges and Lessons Learned</title>
+		<link>/explainable-ai-in-industry-practical-challenges-and-lessons-learned/</link>
+					<comments>/explainable-ai-in-industry-practical-challenges-and-lessons-learned/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 01:14:50 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[AI Fairness and Implications]]></category>
+		<guid isPermaLink="false">/?p=472</guid>
+
+					<description><![CDATA[By Krishna Gade (Fiddler Labs), Sahin Cem Geyik (LinkedIn), Krishnaram Kenthapadi (Amazon AWS AI), Varun Mithal (LinkedIn), Ankur Taly (Fiddler Labs) Presented at Tutorial at FAT*2020, Barcelona, January 27th to 30th, 2020]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Krishna Gade (Fiddler Labs), Sahin Cem Geyik (LinkedIn), Krishnaram Kenthapadi (Amazon AWS AI), Varun Mithal (LinkedIn), Ankur Taly (Fiddler Labs) </p>
+
+
+
+<p class="has-text-align-center">Presented at Tutorial at FAT*2020, Barcelona, January 27th to 30th, 2020</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Explainable AI in Industry: Practical Challenges and Lessons Learned" width="580" height="326" src="https://www.youtube.com/embed/lcN-XJSsd-c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/explainable-ai-in-industry-practical-challenges-and-lessons-learned/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Algorithmic Decision Making and the Cost of Fairness</title>
+		<link>/algorithmic-decision-making-and-the-cost-of-fairness/</link>
+					<comments>/algorithmic-decision-making-and-the-cost-of-fairness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 01:46:12 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[DEI]]></category>
+		<guid isPermaLink="false">/?p=452</guid>
+
+					<description><![CDATA[By Sam Corbett-Davies, Emma Pierson, Avi Feller, Sharad Goel and Aziz Huq https://arxiv.org/abs/1701.08230]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Sam Corbett-Davies, Emma Pierson, Avi Feller, Sharad Goel and Aziz Huq</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/1701.08230">https://arxiv.org/abs/1701.08230</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="991" height="413" src="/wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.44.53.png" alt="" class="wp-image-453" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.44.53.png 991w, /wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.44.53-300x125.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.44.53-768x320.png 768w" sizes="(max-width: 991px) 100vw, 991px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/algorithmic-decision-making-and-the-cost-of-fairness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Managing Bias in AI</title>
+		<link>/managing-bias-in-ai/</link>
+					<comments>/managing-bias-in-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 00:00:55 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=428</guid>
+
+					<description><![CDATA[By Drew Roselli, Jeanna Matthews and Nisha Talagala https://www.researchgate.net/publication/333060685_Managing_Bias_in_AI]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Drew Roselli, Jeanna Matthews and Nisha Talagala</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.researchgate.net/publication/333060685_Managing_Bias_in_AI">https://www.researchgate.net/publication/333060685_Managing_Bias_in_AI</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="649" height="490" src="/wp-content/uploads/2020/10/Screenshot-2020-10-26-at-8.00.03-PM.png" alt="" class="wp-image-429" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-26-at-8.00.03-PM.png 649w, /wp-content/uploads/2020/10/Screenshot-2020-10-26-at-8.00.03-PM-300x227.png 300w" sizes="(max-width: 649px) 100vw, 649px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/managing-bias-in-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Understanding and Removing Unfair Bias in ML</title>
+		<link>/understanding-and-removing-unfair-bias-in-ml/</link>
+					<comments>/understanding-and-removing-unfair-bias-in-ml/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2020 23:48:07 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=425</guid>
+
+					<description><![CDATA[By Speaker: Upkar Lidder]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Speaker: Upkar Lidder</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="IBM AI Talks #3: Understanding and Removing Unfair Bias in ML" width="580" height="326" src="https://www.youtube.com/embed/sMc6_A3Sk78?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/understanding-and-removing-unfair-bias-in-ml/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Algorithmic Fairness</title>
+		<link>/algorithmic-fairness/</link>
+					<comments>/algorithmic-fairness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2020 18:58:44 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<guid isPermaLink="false">/?p=404</guid>
+
+					<description><![CDATA[By Dana Pessach and Erez Shmueli https://arxiv.org/abs/2001.09784]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Dana Pessach and Erez Shmueli</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/2001.09784">https://arxiv.org/abs/2001.09784</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-1024x472.png" alt="" class="wp-image-405" width="753" height="347" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-1024x472.png 1024w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-300x138.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-768x354.png 768w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM.png 1028w" sizes="(max-width: 753px) 100vw, 753px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/algorithmic-fairness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Discrimination in Online Advertising-A Multidisciplinary Inquiry</title>
+		<link>/discrimination-in-online-advertising-a-multidisciplinary-inquiry/</link>
+					<comments>/discrimination-in-online-advertising-a-multidisciplinary-inquiry/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:34:14 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">/?p=149</guid>
+
+					<description><![CDATA[By Amit Datta, Anupam Datta, Jael Makagon, Deirdre K. Mulligan and Michael Carl Tschantz http://proceedings.mlr.press/v81/datta18a/datta18a.pdf]]></description>
+										<content:encoded><![CDATA[
+<p>By Amit Datta, Anupam Datta, Jael Makagon, Deirdre K. Mulligan and Michael Carl Tschantz</p>
+
+
+
+<p><a href="http://proceedings.mlr.press/v81/datta18a/datta18a.pdf">http://proceedings.mlr.press/v81/datta18a/datta18a.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM.png" alt="" class="wp-image-150" width="764" height="566" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM.png 1011w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM-300x223.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM-768x570.png 768w" sizes="(max-width: 764px) 100vw, 764px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/discrimination-in-online-advertising-a-multidisciplinary-inquiry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fair Decisions</title>
+	<atom:link href="/category/fair-decisions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Jan 2021 04:24:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>Fair Decisions</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial</title>
+		<link>/dealing-with-bias-and-fairness-in-data-science-systems-a-practical-hands-on-tutorial/</link>
+					<comments>/dealing-with-bias-and-fairness-in-data-science-systems-a-practical-hands-on-tutorial/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 04:24:23 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=537</guid>
+
+					<description><![CDATA[By Pedro Saleiro, Kit T. Rodolfa and Rayid Ghani https://dl.acm.org/doi/abs/10.1145/3394486.3406708]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Pedro Saleiro, Kit T. Rodolfa and Rayid Ghani</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3394486.3406708">https://dl.acm.org/doi/abs/10.1145/3394486.3406708</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="878" height="598" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM.png" alt="" class="wp-image-538" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM.png 878w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM-300x204.png 300w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM-768x523.png 768w" sizes="(max-width: 878px) 100vw, 878px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/dealing-with-bias-and-fairness-in-data-science-systems-a-practical-hands-on-tutorial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>On the (Im)possibility of Fairness</title>
+		<link>/on-the-impossibility-of-fairness/</link>
+					<comments>/on-the-impossibility-of-fairness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 01:56:45 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<guid isPermaLink="false">/?p=456</guid>
+
+					<description><![CDATA[By Sorelle A. Friedler, Carlos Scheidegger and Suresh Venkatasubramanian https://arxiv.org/abs/1609.07236]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Sorelle A. Friedler, Carlos Scheidegger and Suresh Venkatasubramanian</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/1609.07236">https://arxiv.org/abs/1609.07236</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="986" height="274" src="/wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.49.53.png" alt="" class="wp-image-457" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.49.53.png 986w, /wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.49.53-300x83.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-03-at-20.49.53-768x213.png 768w" sizes="(max-width: 986px) 100vw, 986px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/on-the-impossibility-of-fairness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Transparent Framework for Evaluating Unintended Demographic Bias in Word Embeddings</title>
+		<link>/a-transparent-framework-for-evaluating-unintended-demographic-bias-in-word-embeddings/</link>
+					<comments>/a-transparent-framework-for-evaluating-unintended-demographic-bias-in-word-embeddings/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2020 14:28:30 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=412</guid>
+
+					<description><![CDATA[By Chris Sweeney and Maryam Najafian https://www.aclweb.org/anthology/P19-1162v2.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Chris Sweeney and Maryam Najafian</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.aclweb.org/anthology/P19-1162v2.pdf">https://www.aclweb.org/anthology/P19-1162v2.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.27.13-AM.png" alt="" class="wp-image-413" width="501" height="694" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.27.13-AM.png 394w, /wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.27.13-AM-216x300.png 216w" sizes="(max-width: 501px) 100vw, 501px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/a-transparent-framework-for-evaluating-unintended-demographic-bias-in-word-embeddings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Preference Informed Fairness</title>
+		<link>/preference-informed-fairness/</link>
+					<comments>/preference-informed-fairness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2020 19:26:29 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=407</guid>
+
+					<description><![CDATA[By Gal Yona (Weizmann Institute)]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Gal Yona (Weizmann Institute)</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Preference Informed Fairness" width="580" height="326" src="https://www.youtube.com/embed/zAR5VbkhKv4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/preference-informed-fairness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Algorithmic Fairness</title>
+		<link>/algorithmic-fairness/</link>
+					<comments>/algorithmic-fairness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2020 18:58:44 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<guid isPermaLink="false">/?p=404</guid>
+
+					<description><![CDATA[By Dana Pessach and Erez Shmueli https://arxiv.org/abs/2001.09784]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Dana Pessach and Erez Shmueli</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/2001.09784">https://arxiv.org/abs/2001.09784</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-1024x472.png" alt="" class="wp-image-405" width="753" height="347" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-1024x472.png 1024w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-300x138.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM-768x354.png 768w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.56.11-PM.png 1028w" sizes="(max-width: 753px) 100vw, 753px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/algorithmic-fairness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fairness Through Awareness</title>
+		<link>/fairness-through-awareness/</link>
+					<comments>/fairness-through-awareness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2020 18:54:22 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<guid isPermaLink="false">/?p=400</guid>
+
+					<description><![CDATA[By Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold and Richard Zemel https://arxiv.org/pdf/1104.3913.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold and <br>Richard Zemel</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/1104.3913.pdf">https://arxiv.org/pdf/1104.3913.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM.png" alt="" class="wp-image-401" width="782" height="341" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM.png 880w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM-300x131.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM-768x335.png 768w" sizes="(max-width: 782px) 100vw, 782px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fairness-through-awareness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fair Decision making using Privacy-Protected Data</title>
+		<link>/fair-decision-making-using-privacy-protected-data/</link>
+					<comments>/fair-decision-making-using-privacy-protected-data/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 02:20:31 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Fair decisions]]></category>
+		<guid isPermaLink="false">/?p=271</guid>
+
+					<description><![CDATA[By David Pujol, Ryan McKenna, Satya Kuppam, Michael Hay, Ashwin Machanavajjhala and Gerome Miklau https://dl.acm.org/doi/abs/10.1145/3351095.3372872]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By David Pujol, Ryan McKenna, Satya Kuppam, Michael Hay, Ashwin Machanavajjhala and Gerome Miklau</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3372872">https://dl.acm.org/doi/abs/10.1145/3351095.3372872</a></p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Fair Decision Making using Privacy-Protected Data" width="580" height="326" src="https://www.youtube.com/embed/ZsG7OA0sG6I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fair-decision-making-using-privacy-protected-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Concept of Fairness in the GDPR: A Linguistic and Contextual Interpretation</title>
+		<link>/the-concept-of-fairness-in-the-gdpr-a-linguistic-and-contextual-interpretation/</link>
+					<comments>/the-concept-of-fairness-in-the-gdpr-a-linguistic-and-contextual-interpretation/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 01:50:11 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Fair decisions]]></category>
+		<guid isPermaLink="false">/?p=267</guid>
+
+					<description><![CDATA[By Gianclaudio Malgieri https://dl.acm.org/doi/abs/10.1145/3351095.3372868]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Gianclaudio Malgieri</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3372868">https://dl.acm.org/doi/abs/10.1145/3351095.3372868</a></p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The concept of fairness in the GDPR: a linguistic and contextual interpretation" width="580" height="326" src="https://www.youtube.com/embed/2eQM1KZo4X4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-concept-of-fairness-in-the-gdpr-a-linguistic-and-contextual-interpretation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Problem Formulation and Fairness</title>
+		<link>/problem-formulation-and-fairness/</link>
+					<comments>/problem-formulation-and-fairness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 22:00:50 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Fair decisions]]></category>
+		<guid isPermaLink="false">/?p=167</guid>
+
+					<description><![CDATA[By Samir Passi and Solon Barocas https://dl.acm.org/doi/10.1145/3287560.3287567]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Samir Passi and Solon Barocas</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/10.1145/3287560.3287567">https://dl.acm.org/doi/10.1145/3287560.3287567</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.00.04-PM.png" alt="" class="wp-image-168" width="625" height="487" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.00.04-PM.png 853w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.00.04-PM-300x234.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.00.04-PM-768x599.png 768w" sizes="(max-width: 625px) 100vw, 625px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/problem-formulation-and-fairness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Challenges of Incorporating Algorithmic Fairness into Industry Practice</title>
+		<link>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/</link>
+					<comments>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:54:36 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<category><![CDATA[Fair decisions]]></category>
+		<guid isPermaLink="false">/?p=164</guid>
+
+					<description><![CDATA[By Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf]]></description>
+										<content:encoded><![CDATA[
+<p>By Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright</p>
+
+
+
+<p><a href="https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf">https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf</a></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="FAT* 2019 Translation Tutorial: Challenges of incorporating algorithmic fairness" width="580" height="326" src="https://www.youtube.com/embed/UicKZv93SOY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

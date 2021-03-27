@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>General Topics</title>
+	<atom:link href="/category/general-topics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 12 Jan 2021 23:47:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>General Topics</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Evolution and impact of bias in human and machine learning algorithm interaction</title>
+		<link>/evolution-and-impact-of-bias-in-human-and-machine-learning-algorithm-interaction/</link>
+					<comments>/evolution-and-impact-of-bias-in-human-and-machine-learning-algorithm-interaction/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 23:47:21 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=528</guid>
+
+					<description><![CDATA[By Wenlong Sun, Olfa Nasraoui and Patrick Shafto https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Wenlong Sun, Olfa Nasraoui and Patrick Shafto</p>
+
+
+
+<p class="has-text-align-center"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="621" height="600" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.41.53-PM.png" alt="" class="wp-image-529" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.41.53-PM.png 621w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.41.53-PM-300x290.png 300w" sizes="(max-width: 621px) 100vw, 621px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/evolution-and-impact-of-bias-in-human-and-machine-learning-algorithm-interaction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bias in Machine Learning -What is it Good for?</title>
+		<link>/bias-in-machine-learning-what-is-it-good-for/</link>
+					<comments>/bias-in-machine-learning-what-is-it-good-for/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 23:37:16 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=525</guid>
+
+					<description><![CDATA[By Thomas Hellstrom, Virginia Dignum and Suna Bensch https://arxiv.org/pdf/2004.00686.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Thomas Hellstrom, Virginia Dignum and Suna Bensch</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/2004.00686.pdf">https://arxiv.org/pdf/2004.00686.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="754" height="453" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.35.23-PM.png" alt="" class="wp-image-526" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.35.23-PM.png 754w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.35.23-PM-300x180.png 300w" sizes="(max-width: 754px) 100vw, 754px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bias-in-machine-learning-what-is-it-good-for/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>21 Fairness Definitions and Their Politics</title>
+		<link>/21-fairness-definitions-and-their-politics/</link>
+					<comments>/21-fairness-definitions-and-their-politics/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 00:59:01 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=464</guid>
+
+					<description><![CDATA[By Arvind Narayanan (Princeton University) https://nyulaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df974dd7-86b9-4f93-b6cd-a88d012606a9&#38;start=7.177368]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Arvind Narayanan (Princeton University)</p>
+
+
+
+<p class="has-text-align-center"><a href="https://nyulaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df974dd7-86b9-4f93-b6cd-a88d012606a9&amp;start=7.177368">https://nyulaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df974dd7-86b9-4f93-b6cd-a88d012606a9&amp;start=7.177368</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="535" src="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-1024x535.png" alt="" class="wp-image-465" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-1024x535.png 1024w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-300x157.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-768x401.png 768w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-1200x627.png 1200w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03.png 1364w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/21-fairness-definitions-and-their-politics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Resources for Research on Trustworthy ML</title>
+		<link>/resources-for-research-on-trustworthy-ml/</link>
+					<comments>/resources-for-research-on-trustworthy-ml/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 16:39:11 +0000</pubDate>
+				<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=188</guid>
+
+					<description><![CDATA[A reourceful website maintained by CS and allied researchers. https://www.trustworthyml.org/]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">A reourceful website maintained by CS and allied researchers.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.trustworthyml.org/">https://www.trustworthyml.org/</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="598" src="/wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-1024x598.png" alt="" class="wp-image-189" srcset="/wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-1024x598.png 1024w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-300x175.png 300w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-768x448.png 768w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-1536x897.png 1536w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-2048x1196.png 2048w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-1200x701.png 1200w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.37.15-AM-1980x1156.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/resources-for-research-on-trustworthy-ml/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MIT Forum on Equity Webcasts 2020</title>
+		<link>/mit-forum-on-equity-webcasts-2020/</link>
+					<comments>/mit-forum-on-equity-webcasts-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 16:32:23 +0000</pubDate>
+				<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=183</guid>
+
+					<description><![CDATA[A webcast series by MIT on various aspects of equity. https://alum.mit.edu/events/all?keywords=%22Forum%20for%20Equity%22]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">A webcast series by MIT on various aspects of equity. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://alum.mit.edu/events/all?keywords=%22Forum%20for%20Equity%22">https://alum.mit.edu/events/all?keywords=%22Forum%20for%20Equity%22</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="758" src="/wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-1024x758.png" alt="" class="wp-image-184" srcset="/wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-1024x758.png 1024w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-300x222.png 300w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-768x568.png 768w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-1536x1136.png 1536w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-2048x1515.png 2048w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-1200x888.png 1200w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.48-AM-1980x1465.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="591" src="/wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-1024x591.png" alt="" class="wp-image-185" srcset="/wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-1024x591.png 1024w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-300x173.png 300w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-768x443.png 768w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-1536x887.png 1536w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-2048x1183.png 2048w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-1200x693.png 1200w, /wp-content/uploads/2020/10/Screen-Shot-2020-10-14-at-11.27.17-AM-1980x1143.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mit-forum-on-equity-webcasts-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Current State of Fairness Research in AI</title>
+		<link>/the-current-state-of-fairness-research-in-ai/</link>
+					<comments>/the-current-state-of-fairness-research-in-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 22:34:12 +0000</pubDate>
+				<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=179</guid>
+
+					<description><![CDATA[Blog post by integrate.ai https://integrate.ai/blog/the-current-state-of-fairness-research-in-ai]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">Blog post by integrate.ai</p>
+
+
+
+<p class="has-text-align-center"><a href="https://integrate.ai/blog/the-current-state-of-fairness-research-in-ai">https://integrate.ai/blog/the-current-state-of-fairness-research-in-ai</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.28.21-PM.png" alt="" class="wp-image-180" width="930" height="313" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.28.21-PM.png 1015w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.28.21-PM-300x101.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.28.21-PM-768x259.png 768w" sizes="(max-width: 930px) 100vw, 930px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-current-state-of-fairness-research-in-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A New Era of Hate</title>
+		<link>/a-new-era-of-hate/</link>
+					<comments>/a-new-era-of-hate/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:52:42 +0000</pubDate>
+				<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=162</guid>
+
+					<description><![CDATA[By Keegan Hankes, Swathi Shanmugasundaram]]></description>
+										<content:encoded><![CDATA[
+<p>By Keegan Hankes, Swathi Shanmugasundaram</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="FAT* 2019 Invited Tutorial: A New Era of Hate" width="580" height="326" src="https://www.youtube.com/embed/EroG3GGhbos?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/a-new-era-of-hate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Diversity in Tech</title>
+		<link>/diversity-in-tech/</link>
+					<comments>/diversity-in-tech/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 19:10:22 +0000</pubDate>
+				<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=75</guid>
+
+					<description><![CDATA[Employee breakdown of key technology companies https://informationisbeautiful.net/visualizations/diversity-in-tech/]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center" id="diversity-subtitle"><a href="https://informationisbeautiful.net/visualizations/diversity-in-tech/">E</a>mployee breakdown of key technology companies</p>
+
+
+
+<p class="has-text-align-center"><a href="https://informationisbeautiful.net/visualizations/diversity-in-tech/">https://informationisbeautiful.net/visualizations/diversity-in-tech/</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.09.27-PM-1024x288.png" alt="" class="wp-image-76" width="950" height="267" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.09.27-PM-1024x288.png 1024w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.09.27-PM-300x84.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.09.27-PM-768x216.png 768w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.09.27-PM-1200x337.png 1200w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.09.27-PM.png 1337w" sizes="(max-width: 950px) 100vw, 950px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/diversity-in-tech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

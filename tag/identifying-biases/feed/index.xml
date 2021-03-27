@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Identifying Biases</title>
+	<atom:link href="/tag/identifying-biases/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Oct 2020 20:16:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>Identifying Biases</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reducing Sentiment Polarity for Demographic Attributes in Word Embeddings using Adversarial Learning</title>
+		<link>/reducing-sentiment-polarity-for-demographic-attributes-in-word-embeddings-using-adversarial-learning/</link>
+					<comments>/reducing-sentiment-polarity-for-demographic-attributes-in-word-embeddings-using-adversarial-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 02:01:02 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=269</guid>
+
+					<description><![CDATA[By Chris Sweeney and Maryam Najafian https://dl.acm.org/doi/abs/10.1145/3351095.3372837]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Chris Sweeney and Maryam Najafian</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3372837">https://dl.acm.org/doi/abs/10.1145/3351095.3372837</a></p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Reducing Sentiment Polarity for Demographic Attributes in Word Embeddings using Adversarial Learning" width="580" height="326" src="https://www.youtube.com/embed/OGKnWk9Cx3A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/reducing-sentiment-polarity-for-demographic-attributes-in-word-embeddings-using-adversarial-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Meaning and Measurement of Bias: Lessons from NLP</title>
+		<link>/the-meaning-and-measurement-of-bias-lessons-from-nlp/</link>
+					<comments>/the-meaning-and-measurement-of-bias-lessons-from-nlp/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2020 17:53:51 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=262</guid>
+
+					<description><![CDATA[By Abigail Jacobs, Su Lin Blodgett, Solon Barocas, Hal Daumé III and Hanna Wallach https://dl.acm.org/doi/abs/10.1145/3351095.3375671]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Abigail Jacobs, Su Lin Blodgett, Solon Barocas, Hal Daumé III and  Hanna Wallach</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3375671">https://dl.acm.org/doi/abs/10.1145/3351095.3375671</a></p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The Meaning and Measurement of Bias: Lessons from NLP" width="580" height="326" src="https://www.youtube.com/embed/va1lIfTCQ-E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-meaning-and-measurement-of-bias-lessons-from-nlp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Characterizing Bias in Compressed Models</title>
+		<link>/characterizing-bias-in-compressed-models/</link>
+					<comments>/characterizing-bias-in-compressed-models/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2020 00:36:21 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=223</guid>
+
+					<description><![CDATA[By Sara Hooker,&#160;Nyalleng Moorosi,&#160;Gregory Clark,&#160;Samy Bengio,&#160;Emily Denton https://arxiv.org/abs/2010.03058]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Sara Hooker,&nbsp;Nyalleng Moorosi,&nbsp;Gregory Clark,&nbsp;Samy Bengio,&nbsp;Emily Denton</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/2010.03058">https://arxiv.org/abs/2010.03058</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-14-at-8.35.14-PM-1024x388.png" alt="" class="wp-image-224" width="1080" height="409" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-14-at-8.35.14-PM-1024x388.png 1024w, /wp-content/uploads/2020/10/Screenshot-2020-10-14-at-8.35.14-PM-300x114.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-14-at-8.35.14-PM-768x291.png 768w, /wp-content/uploads/2020/10/Screenshot-2020-10-14-at-8.35.14-PM.png 1034w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/characterizing-bias-in-compressed-models/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations</title>
+		<link>/equality-of-voice-towards-fair-representation-in-crowdsourced-top-k-recommendations/</link>
+					<comments>/equality-of-voice-towards-fair-representation-in-crowdsourced-top-k-recommendations/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 22:04:37 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=170</guid>
+
+					<description><![CDATA[By Abhijnan Chakraborty, Gourab K. Patro, Niloy Ganguly, Krishna P. Gummadi and Patrick Loiseau https://dl.acm.org/doi/10.1145/3287560.3287570]]></description>
+										<content:encoded><![CDATA[
+<p>By Abhijnan Chakraborty, Gourab K. Patro, Niloy Ganguly, Krishna P. Gummadi and Patrick Loiseau</p>
+
+
+
+<p><a href="https://dl.acm.org/doi/10.1145/3287560.3287570">https://dl.acm.org/doi/10.1145/3287560.3287570</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.03.39-PM.png" alt="" class="wp-image-171" width="654" height="524" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.03.39-PM.png 844w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.03.39-PM-300x241.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.03.39-PM-768x616.png 768w" sizes="(max-width: 654px) 100vw, 654px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/equality-of-voice-towards-fair-representation-in-crowdsourced-top-k-recommendations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Artificial Intelligence and Algorithmic Bias: Implications for Health Systems</title>
+		<link>/artificial-intelligence-and-algorithmic-bias-implications-for-health-systems/</link>
+					<comments>/artificial-intelligence-and-algorithmic-bias-implications-for-health-systems/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2020 22:43:23 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=121</guid>
+
+					<description><![CDATA[By Trishan Panch, Heathr Panch and Rifat Atun]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Trishan Panch, Heathr Panch and Rifat Atun</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.42.32-PM.png" alt="" class="wp-image-122" width="709" height="493" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.42.32-PM.png 796w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.42.32-PM-300x209.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.42.32-PM-768x535.png 768w" sizes="(max-width: 709px) 100vw, 709px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/artificial-intelligence-and-algorithmic-bias-implications-for-health-systems/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Reducing Gender Bias in Abusive Language Detection</title>
+		<link>/reducing-gender-bias-in-abusive-language-detection/</link>
+					<comments>/reducing-gender-bias-in-abusive-language-detection/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2020 22:11:56 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=107</guid>
+
+					<description><![CDATA[By JiHo Park, Jamin Shin, Pascale Fung https://arxiv.org/abs/1808.07231]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By JiHo Park, Jamin Shin, Pascale Fung</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/1808.07231">https://arxiv.org/abs/1808.07231</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.24.04-PM.png" alt="" class="wp-image-113" width="713" height="398" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.24.04-PM.png 1002w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.24.04-PM-300x167.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.24.04-PM-768x428.png 768w" sizes="(max-width: 713px) 100vw, 713px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/reducing-gender-bias-in-abusive-language-detection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Risk of Racial Bias in Hate Speech Detection</title>
+		<link>/the-risk-of-racial-bias-in-hate-speech-detection/</link>
+					<comments>/the-risk-of-racial-bias-in-hate-speech-detection/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2020 21:44:34 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=103</guid>
+
+					<description><![CDATA[By Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith https://www.aclweb.org/anthology/P19-1163.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Maarten Sap,  Dallas Card, Saadia Gabriel,  Yejin Choi, Noah A. Smith</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.aclweb.org/anthology/P19-1163.pdf">https://www.aclweb.org/anthology/P19-1163.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.28.33-PM.png" alt="" class="wp-image-116" width="832" height="563" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.28.33-PM.png 960w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.28.33-PM-300x203.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.28.33-PM-768x520.png 768w" sizes="(max-width: 832px) 100vw, 832px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-risk-of-racial-bias-in-hate-speech-detection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Algorithmic Bias Detection and Mitigation: Best Practices and Policies to Reduce Consumer Harms</title>
+		<link>/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</link>
+					<comments>/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 20:15:20 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=84</guid>
+
+					<description><![CDATA[by Nicol Turner Lee,&#160;Paul Resnick, and&#160;Genie BartonWednesday]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Nicol Turner Lee,&nbsp;Paul Resnick, and&nbsp;Genie BartonWednesday</p>
+
+
+
+<figure class="wp-block-embed-wordpress aligncenter wp-block-embed is-type-wp-embed is-provider-brookings"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="F1sdHXBLsm"><a href="https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/">Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms&#8221; &#8212; Brookings" src="https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/embed/#?secret=F1sdHXBLsm" data-secret="F1sdHXBLsm" width="580" height="327" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div><figcaption><a href="https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/" data-type="URL" data-id="https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/">https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</a></figcaption></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Algorithm Bias Detection and Mitigation in Lenovo Face Recognition Engine</title>
+		<link>/algorithm-bias-detection-and-mitigation-in-lenovo-face-recognition-engine/</link>
+					<comments>/algorithm-bias-detection-and-mitigation-in-lenovo-face-recognition-engine/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 20:13:16 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=81</guid>
+
+					<description><![CDATA[By Sheng&#160;ShiShanshan, WeiZhongchao, ShiYangzhou, DuWei, FanJianping, FanYolanda&#160;and ConyersFeiyu&#160;Xu https://link.springer.com/chapter/10.1007/978-3-030-60457-8_36]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Sheng&nbsp;ShiShanshan, WeiZhongchao, ShiYangzhou, DuWei, FanJianping, FanYolanda&nbsp;and ConyersFeiyu&nbsp;Xu</p>
+
+
+
+<p class="has-text-align-center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-60457-8_36">https://link.springer.com/chapter/10.1007/978-3-030-60457-8_36</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-4.12.37-PM.png" alt="" class="wp-image-82" width="781" height="552" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-4.12.37-PM.png 774w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-4.12.37-PM-300x212.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-4.12.37-PM-768x543.png 768w" sizes="(max-width: 781px) 100vw, 781px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/algorithm-bias-detection-and-mitigation-in-lenovo-face-recognition-engine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Decision-making under Uncertainty: Biases and Bayesians</title>
+		<link>/decision-making-under-uncertainty-biases-and-bayesians/</link>
+					<comments>/decision-making-under-uncertainty-biases-and-bayesians/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 19:23:37 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=78</guid>
+
+					<description><![CDATA[by Pete C. Trimmer,&#160;Alasdair I. Houston,&#160;James A. R. Marshall,&#160;Mike T. Mendl,&#160;Elizabeth S. Paul&#160;&#38;&#160;John M. McNamara&#160; https://link.springer.com/article/10.1007/s10071-011-0387-4]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Pete C. Trimmer,&nbsp;Alasdair I. Houston,&nbsp;James A. R. Marshall,&nbsp;Mike T. Mendl,&nbsp;Elizabeth S. Paul&nbsp;&amp;&nbsp;John M. McNamara&nbsp;</p>
+
+
+
+<p class="has-text-align-center"><a href="https://link.springer.com/article/10.1007/s10071-011-0387-4">https://link.springer.com/article/10.1007/s10071-011-0387-4</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.23.00-PM.png" alt="" class="wp-image-79" width="735" height="521" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.23.00-PM.png 826w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.23.00-PM-300x213.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.23.00-PM-768x545.png 768w" sizes="(max-width: 735px) 100vw, 735px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/decision-making-under-uncertainty-biases-and-bayesians/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

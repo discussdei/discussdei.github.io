@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Identifying Biases</title>
+	<atom:link href="/category/identifying-biases/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Jan 2021 04:30:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>Identifying Biases</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Solve AI Bias</title>
+		<link>/how-to-solve-ai-bias/</link>
+					<comments>/how-to-solve-ai-bias/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 04:30:11 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=541</guid>
+
+					<description><![CDATA[By Robin Bradley https://uhra.herts.ac.uk/bitstream/handle/2299/22716/How_to_Solve_AI_Bias_by_Robin_Bradley_v2.pdf?sequence=1&#38;isAllowed=y]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Robin Bradley</p>
+
+
+
+<p class="has-text-align-center"><a href="https://uhra.herts.ac.uk/bitstream/handle/2299/22716/How_to_Solve_AI_Bias_by_Robin_Bradley_v2.pdf?sequence=1&amp;isAllowed=y">https://uhra.herts.ac.uk/bitstream/handle/2299/22716/How_to_Solve_AI_Bias_by_Robin_Bradley_v2.pdf?sequence=1&amp;isAllowed=y</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-1024x183.png" alt="" class="wp-image-542" width="823" height="147" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-1024x183.png 1024w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-300x54.png 300w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-768x137.png 768w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM.png 1110w" sizes="(max-width: 823px) 100vw, 823px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-solve-ai-bias/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial</title>
+		<link>/dealing-with-bias-and-fairness-in-data-science-systems-a-practical-hands-on-tutorial/</link>
+					<comments>/dealing-with-bias-and-fairness-in-data-science-systems-a-practical-hands-on-tutorial/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 04:24:23 +0000</pubDate>
+				<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=537</guid>
+
+					<description><![CDATA[By Pedro Saleiro, Kit T. Rodolfa and Rayid Ghani https://dl.acm.org/doi/abs/10.1145/3394486.3406708]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Pedro Saleiro, Kit T. Rodolfa and Rayid Ghani</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3394486.3406708">https://dl.acm.org/doi/abs/10.1145/3394486.3406708</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="878" height="598" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM.png" alt="" class="wp-image-538" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM.png 878w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM-300x204.png 300w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.23.16-PM-768x523.png 768w" sizes="(max-width: 878px) 100vw, 878px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/dealing-with-bias-and-fairness-in-data-science-systems-a-practical-hands-on-tutorial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Techniques to Eliminate Human Bias in Machine Learning</title>
+		<link>/techniques-to-eliminate-human-bias-in-machine-learning/</link>
+					<comments>/techniques-to-eliminate-human-bias-in-machine-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 03:44:29 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=531</guid>
+
+					<description><![CDATA[By Eishvak Sengupta, Dhruv Garg, Tanupriya Choudhury and Archit Agrawal https://ieeexplore.ieee.org/abstract/document/8746946]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Eishvak Sengupta, Dhruv Garg, Tanupriya Choudhury and Archit Agrawal</p>
+
+
+
+<p class="has-text-align-center"><a href="https://ieeexplore.ieee.org/abstract/document/8746946">https://ieeexplore.ieee.org/abstract/document/8746946</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM.png" alt="" class="wp-image-532" width="662" height="179" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM.png 783w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM-300x81.png 300w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM-768x208.png 768w" sizes="(max-width: 662px) 100vw, 662px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/techniques-to-eliminate-human-bias-in-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Preventing Algorithmic Bias in the Development of Algorithmic Decision-Making Systems: A Delphi Study</title>
+		<link>/preventing-algorithmic-bias-in-the-development-of-algorithmic-decision-making-systems-a-delphi-study/</link>
+					<comments>/preventing-algorithmic-bias-in-the-development-of-algorithmic-decision-making-systems-a-delphi-study/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 22:46:05 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=522</guid>
+
+					<description><![CDATA[By Banu Aysolmaz, Nancy Dau and Deniz Iren https://scholarspace.manoa.hawaii.edu/bitstream/10125/64390/1/0521.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Banu Aysolmaz, Nancy Dau and Deniz Iren</p>
+
+
+
+<p class="has-text-align-center"><a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64390/1/0521.pdf">https://scholarspace.manoa.hawaii.edu/bitstream/10125/64390/1/0521.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/01/Screenshot-2021-01-09-at-5.45.05-PM.png" alt="" class="wp-image-523" width="482" height="508" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-09-at-5.45.05-PM.png 356w, /wp-content/uploads/2021/01/Screenshot-2021-01-09-at-5.45.05-PM-285x300.png 285w" sizes="(max-width: 482px) 100vw, 482px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/preventing-algorithmic-bias-in-the-development-of-algorithmic-decision-making-systems-a-delphi-study/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Optimized Pre-Processing for Discrimination Prevention</title>
+		<link>/optimized-pre-processing-for-discrimination-prevention/</link>
+					<comments>/optimized-pre-processing-for-discrimination-prevention/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:24:45 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=511</guid>
+
+					<description><![CDATA[By Flavio P. Calmon, Dennis Wei, Bhanukiran Vinzamuri, Karthikeyan Natesan Ramamurthy and Kush R. Varshney https://proceedings.neurips.cc/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Flavio P. Calmon, Dennis Wei, Bhanukiran Vinzamuri, Karthikeyan Natesan Ramamurthy and Kush R. Varshney</p>
+
+
+
+<p class="has-text-align-center"><a href="https://proceedings.neurips.cc/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf">https://proceedings.neurips.cc/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="927" height="358" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM.png" alt="" class="wp-image-512" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM.png 927w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM-300x116.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.23.47-PM-768x297.png 768w" sizes="(max-width: 927px) 100vw, 927px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/optimized-pre-processing-for-discrimination-prevention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adversarial Removal of Gender from Deep Image Representations</title>
+		<link>/adversarial-removal-of-gender-from-deep-image-representations/</link>
+					<comments>/adversarial-removal-of-gender-from-deep-image-representations/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 21:43:52 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=501</guid>
+
+					<description><![CDATA[By Tianlu Wang, Jieyu Zhao, Mark Yatskar, Kai-Wei Chang &#38; Vicente Ordonez https://arxiv.org/pdf/1811.08489.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Tianlu Wang, Jieyu Zhao, Mark Yatskar, Kai-Wei Chang &amp; Vicente Ordonez</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/1811.08489.pdf">https://arxiv.org/pdf/1811.08489.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.42.22-PM.png" alt="" class="wp-image-502" width="585" height="547" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.42.22-PM.png 474w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.42.22-PM-300x280.png 300w" sizes="(max-width: 585px) 100vw, 585px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/adversarial-removal-of-gender-from-deep-image-representations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Effects of Talker Dialect, Gender &#038; Race on Accuracy of Bing Speech and YouTube Automatic Captions</title>
+		<link>/effects-of-talker-dialect-gender-race-on-accuracy-of-bing-speech-and-youtube-automatic-captions/</link>
+					<comments>/effects-of-talker-dialect-gender-race-on-accuracy-of-bing-speech-and-youtube-automatic-captions/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 01:28:38 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=480</guid>
+
+					<description><![CDATA[By Rachael Tatman and Conner Kasten https://pdfs.semanticscholar.org/1080/dc00733e010fdd6a9b999506a0d4d864519d.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Rachael Tatman and Conner Kasten</p>
+
+
+
+<p class="has-text-align-center"><a href="https://pdfs.semanticscholar.org/1080/dc00733e010fdd6a9b999506a0d4d864519d.pdf">https://pdfs.semanticscholar.org/1080/dc00733e010fdd6a9b999506a0d4d864519d.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="652" height="496" src="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.27.38.png" alt="" class="wp-image-481" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.27.38.png 652w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.27.38-300x228.png 300w" sizes="(max-width: 652px) 100vw, 652px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/effects-of-talker-dialect-gender-race-on-accuracy-of-bing-speech-and-youtube-automatic-captions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Measuring the Biases that Matter: The Ethical and Casual Foundations for Measures of Fairness in Algorithms</title>
+		<link>/measuring-the-biases-that-matter-the-ethical-and-casual-foundations-for-measures-of-fairness-in-algorithms/</link>
+					<comments>/measuring-the-biases-that-matter-the-ethical-and-casual-foundations-for-measures-of-fairness-in-algorithms/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 01:08:01 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=468</guid>
+
+					<description><![CDATA[By Bruce Glymour and Jonathan Herington https://dl.acm.org/doi/10.1145/3287560.3287573]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Bruce Glymour and Jonathan Herington</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/10.1145/3287560.3287573">https://dl.acm.org/doi/10.1145/3287560.3287573</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.07.09.png" alt="" class="wp-image-469" width="649" height="638" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.07.09.png 694w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.07.09-300x295.png 300w" sizes="(max-width: 649px) 100vw, 649px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/measuring-the-biases-that-matter-the-ethical-and-casual-foundations-for-measures-of-fairness-in-algorithms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing</title>
+		<link>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/</link>
+					<comments>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2020 01:01:15 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=440</guid>
+
+					<description><![CDATA[By Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron and Parker Barnes https://dl.acm.org/doi/abs/10.1145/3351095.3372873]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron and Parker Barnes</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3372873">https://dl.acm.org/doi/abs/10.1145/3351095.3372873</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="886" height="590" src="/wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21.png" alt="" class="wp-image-441" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21.png 886w, /wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21-300x200.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21-768x511.png 768w" sizes="(max-width: 886px) 100vw, 886px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Survey on Bias and Fairness in Machine Learning</title>
+		<link>/a-survey-on-bias-and-fairness-in-machine-learning/</link>
+					<comments>/a-survey-on-bias-and-fairness-in-machine-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 20:21:32 +0000</pubDate>
+				<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=433</guid>
+
+					<description><![CDATA[By Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman and Aram Galstyan https://arxiv.org/pdf/1908.09635.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman and Aram Galstyan</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/1908.09635.pdf">https://arxiv.org/pdf/1908.09635.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="918" height="520" src="/wp-content/uploads/2020/10/Screenshot-2020-10-27-at-4.20.20-PM.png" alt="" class="wp-image-434" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-27-at-4.20.20-PM.png 918w, /wp-content/uploads/2020/10/Screenshot-2020-10-27-at-4.20.20-PM-300x170.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-27-at-4.20.20-PM-768x435.png 768w" sizes="(max-width: 918px) 100vw, 918px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/a-survey-on-bias-and-fairness-in-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Fairness</title>
+	<atom:link href="/tag/ai-fairness/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Oct 2020 20:07:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>AI Fairness</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Challenges of Incorporating Algorithmic Fairness into Industry Practice</title>
+		<link>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/</link>
+					<comments>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:54:36 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<category><![CDATA[Fair decisions]]></category>
+		<guid isPermaLink="false">/?p=164</guid>
+
+					<description><![CDATA[By Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf]]></description>
+										<content:encoded><![CDATA[
+<p>By Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright</p>
+
+
+
+<p><a href="https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf">https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf</a></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="FAT* 2019 Translation Tutorial: Challenges of incorporating algorithmic fairness" width="580" height="326" src="https://www.youtube.com/embed/UicKZv93SOY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Discrimination in Online Advertising-A Multidisciplinary Inquiry</title>
+		<link>/discrimination-in-online-advertising-a-multidisciplinary-inquiry/</link>
+					<comments>/discrimination-in-online-advertising-a-multidisciplinary-inquiry/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:34:14 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">/?p=149</guid>
+
+					<description><![CDATA[By Amit Datta, Anupam Datta, Jael Makagon, Deirdre K. Mulligan and Michael Carl Tschantz http://proceedings.mlr.press/v81/datta18a/datta18a.pdf]]></description>
+										<content:encoded><![CDATA[
+<p>By Amit Datta, Anupam Datta, Jael Makagon, Deirdre K. Mulligan and Michael Carl Tschantz</p>
+
+
+
+<p><a href="http://proceedings.mlr.press/v81/datta18a/datta18a.pdf">http://proceedings.mlr.press/v81/datta18a/datta18a.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM.png" alt="" class="wp-image-150" width="764" height="566" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM.png 1011w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM-300x223.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.33.50-PM-768x570.png 768w" sizes="(max-width: 764px) 100vw, 764px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/discrimination-in-online-advertising-a-multidisciplinary-inquiry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification</title>
+		<link>/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/</link>
+					<comments>/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:28:41 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">/?p=146</guid>
+
+					<description><![CDATA[by Joy Buolamwini, Timnit Gebru http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Joy Buolamwini, Timnit Gebru</p>
+
+
+
+<p><a href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf">http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.28.10-PM.png" alt="" class="wp-image-147" width="550" height="995" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.28.10-PM.png 404w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-5.28.10-PM-166x300.png 166w" sizes="(max-width: 550px) 100vw, 550px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gender Bias in Artificial Intelligence: the need for Diversity and Gender Theory in Machine Learning</title>
+		<link>/gender-bias-in-artificial-intelligence-the-need-for-diversity-and-gender-theory-in-machine-learning/</link>
+					<comments>/gender-bias-in-artificial-intelligence-the-need-for-diversity-and-gender-theory-in-machine-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 19:03:10 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">/?p=69</guid>
+
+					<description><![CDATA[by Susan Leavy https://dl.acm.org/doi/abs/10.1145/3195570.3195580]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Susan Leavy</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3195570.3195580">https://dl.acm.org/doi/abs/10.1145/3195570.3195580</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.02.24-PM.png" alt="" class="wp-image-70" width="705" height="475" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.02.24-PM.png 858w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.02.24-PM-300x202.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-3.02.24-PM-768x518.png 768w" sizes="(max-width: 705px) 100vw, 705px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gender-bias-in-artificial-intelligence-the-need-for-diversity-and-gender-theory-in-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fairness, Accountability, Transparency and Ethics in AI</title>
+		<link>/fairness-accountability-transparency-and-ethics-in-ai/</link>
+					<comments>/fairness-accountability-transparency-and-ethics-in-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 03:04:30 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=61</guid>
+
+					<description><![CDATA[Moderated Discussion: Fairness, Accountability, Transparency and Ethics in AI Speakers: Ewa Wernerowicz, Vivus Marcin Woch, Algolytics Krzysztof Pycia, Blue Media Terrie Smith, DIGISEQ Moderator: Don Ginsel, Holland Fintech]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">Moderated Discussion: Fairness, Accountability, Transparency and Ethics in AI </p>
+
+
+
+<p class="has-text-align-center">Speakers: Ewa Wernerowicz, Vivus Marcin Woch, Algolytics Krzysztof Pycia, Blue Media Terrie Smith, DIGISEQ </p>
+
+
+
+<p class="has-text-align-center">Moderator: Don Ginsel, Holland Fintech</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Fairness, Accountability, Transparency and Ethics in AI" width="580" height="326" src="https://www.youtube.com/embed/3A9KhjU92vY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fairness-accountability-transparency-and-ethics-in-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Diversity in AI: The Invisible Men and Women</title>
+		<link>/diversity-in-ai-the-invisible-men-and-women/</link>
+					<comments>/diversity-in-ai-the-invisible-men-and-women/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 02:55:31 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=50</guid>
+
+					<description><![CDATA[by Ayanna Howard and Charles Isbell , September 21, 2020 https://sloanreview.mit.edu/article/diversity-in-ai-the-invisible-men-and-women/]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Ayanna Howard and Charles Isbell , September 21, 2020</p>
+
+
+
+<p class="has-text-align-center"><a href="https://sloanreview.mit.edu/article/diversity-in-ai-the-invisible-men-and-women/" target="_blank" rel="noreferrer noopener">https://sloanreview.mit.edu/article/diversity-in-ai-the-invisible-men-and-women/</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="635" height="681" src="/wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.55.06-PM.png" alt="" class="wp-image-51" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.55.06-PM.png 635w, /wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.55.06-PM-280x300.png 280w" sizes="(max-width: 635px) 100vw, 635px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/diversity-in-ai-the-invisible-men-and-women/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Potential for Discrimination in Online Targeted Advertising</title>
+		<link>/potential-for-discrimination-in-online-targeted-advertising/</link>
+					<comments>/potential-for-discrimination-in-online-targeted-advertising/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 02:52:20 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=47</guid>
+
+					<description><![CDATA[by Till Speicher, Muhammad Ali , Giridhari Venkatadri, Filipe Ribeiro , George Arvanitakis, Fabrício Benevenuto, Krishna Gummadi , Patrick Loiseau , Alan Mislove https://hal.archives-ouvertes.fr/hal-01955343/]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Till Speicher,  Muhammad Ali , Giridhari Venkatadri,  Filipe Ribeiro ,  George Arvanitakis, Fabrício Benevenuto,  Krishna Gummadi , Patrick Loiseau , Alan Mislove</p>
+
+
+
+<p class="has-text-align-center"><a href="https://hal.archives-ouvertes.fr/hal-01955343/">https://hal.archives-ouvertes.fr/hal-01955343/</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.53.00-PM.png" alt="" class="wp-image-126" width="913" height="575" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.53.00-PM.png 821w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.53.00-PM-300x189.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.53.00-PM-768x485.png 768w" sizes="(max-width: 913px) 100vw, 913px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/potential-for-discrimination-in-online-targeted-advertising/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Facebook Ads Can Still Discriminate Against Women and Older Workers, Despite a Civil Rights Settlement</title>
+		<link>/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement/</link>
+					<comments>/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 02:44:56 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=44</guid>
+
+					<description><![CDATA[New research and Facebook’s own ad archive show that the company’s new system to ensure diverse audiences for housing and employment ads has many of the same problems as its predecessor. by Ava Kofman and Ariana Tobin Dec. 13, 2019, 5 a.m. EST https://www.propublica.org/article/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">New research and Facebook’s own ad archive show that the company’s new system to ensure diverse audiences for housing and employment ads has many of the same problems as its predecessor. </p>
+
+
+
+<p class="has-text-align-center">by Ava Kofman and Ariana Tobin Dec. 13, 2019, 5 a.m. EST</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.propublica.org/article/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement">https://www.propublica.org/article/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="947" height="752" src="/wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.43.39-PM.png" alt="" class="wp-image-45" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.43.39-PM.png 947w, /wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.43.39-PM-300x238.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.43.39-PM-768x610.png 768w" sizes="(max-width: 947px) 100vw, 947px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>No Classification without Representation: Assessing Geo-diversity Issues in Open Data Sets for the Developing World</title>
+		<link>/no-classification-without-representation-assessing-geo-diversity-issues-in-open-data-sets-for-the-developing-world/</link>
+					<comments>/no-classification-without-representation-assessing-geo-diversity-issues-in-open-data-sets-for-the-developing-world/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 02:33:12 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=39</guid>
+
+					<description><![CDATA[by Shreya Shankar, Yoni Halpern, Eric Breck, James Atwood, Jimbo Wilson, D. Sculley https://arxiv.org/pdf/1711.08536.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Shreya Shankar, Yoni Halpern, Eric Breck, James Atwood, Jimbo Wilson, D. Sculley</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/1711.08536.pdf">https://arxiv.org/pdf/1711.08536.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.50.46-PM.png" alt="" class="wp-image-124" width="703" height="573" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.50.46-PM.png 832w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.50.46-PM-300x244.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-6.50.46-PM-768x626.png 768w" sizes="(max-width: 703px) 100vw, 703px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/no-classification-without-representation-assessing-geo-diversity-issues-in-open-data-sets-for-the-developing-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fairness, Accountability and Transperency</title>
+		<link>/fairness-accountability-and-transperency/</link>
+					<comments>/fairness-accountability-and-transperency/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 02:30:28 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=37</guid>
+
+					<description><![CDATA[FAT* 2019 &#8211; Keynote address by Jon Kleinburg]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">FAT* 2019 &#8211; Keynote address by Jon Kleinburg</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="FAT* 2019: Keynote Address by Jon Kleinburg - &quot;Fairness, Rankings, and Behavioral Biases&quot;" width="580" height="326" src="https://www.youtube.com/embed/9J_KDjrhwUE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fairness-accountability-and-transperency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing	</title>
+	<atom:link href="/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/feed/" rel="self" type="application/rss+xml" />
+	<link>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/</link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Oct 2020 01:01:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+</channel>
+</rss>

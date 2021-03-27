@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Accountability</title>
+	<atom:link href="/category/ai-accountability/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Jan 2021 22:46:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>AI Accountability</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Preventing Algorithmic Bias in the Development of Algorithmic Decision-Making Systems: A Delphi Study</title>
+		<link>/preventing-algorithmic-bias-in-the-development-of-algorithmic-decision-making-systems-a-delphi-study/</link>
+					<comments>/preventing-algorithmic-bias-in-the-development-of-algorithmic-decision-making-systems-a-delphi-study/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 22:46:05 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=522</guid>
+
+					<description><![CDATA[By Banu Aysolmaz, Nancy Dau and Deniz Iren https://scholarspace.manoa.hawaii.edu/bitstream/10125/64390/1/0521.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Banu Aysolmaz, Nancy Dau and Deniz Iren</p>
+
+
+
+<p class="has-text-align-center"><a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64390/1/0521.pdf">https://scholarspace.manoa.hawaii.edu/bitstream/10125/64390/1/0521.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/01/Screenshot-2021-01-09-at-5.45.05-PM.png" alt="" class="wp-image-523" width="482" height="508" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-09-at-5.45.05-PM.png 356w, /wp-content/uploads/2021/01/Screenshot-2021-01-09-at-5.45.05-PM-285x300.png 285w" sizes="(max-width: 482px) 100vw, 482px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/preventing-algorithmic-bias-in-the-development-of-algorithmic-decision-making-systems-a-delphi-study/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Discrimination,Artificial Intelligence and Algorithmic Decision-making</title>
+		<link>/discriminationartificial-intelligence-and-algorithmic-decision-making/</link>
+					<comments>/discriminationartificial-intelligence-and-algorithmic-decision-making/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:30:08 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[AI Fairness and Implications]]></category>
+		<guid isPermaLink="false">/?p=514</guid>
+
+					<description><![CDATA[Study by Prof. Frederik Zuiderveen Borgesius https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">Study by Prof. Frederik Zuiderveen Borgesius</p>
+
+
+
+<p class="has-text-align-center"><a href="https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73">https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="643" height="617" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.29.19-PM.png" alt="" class="wp-image-515" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.29.19-PM.png 643w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-5.29.19-PM-300x288.png 300w" sizes="(max-width: 643px) 100vw, 643px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/discriminationartificial-intelligence-and-algorithmic-decision-making/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Explainable AI in Industry: Practical Challenges and Lessons Learned</title>
+		<link>/explainable-ai-in-industry-practical-challenges-and-lessons-learned/</link>
+					<comments>/explainable-ai-in-industry-practical-challenges-and-lessons-learned/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 01:14:50 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[AI Fairness and Implications]]></category>
+		<guid isPermaLink="false">/?p=472</guid>
+
+					<description><![CDATA[By Krishna Gade (Fiddler Labs), Sahin Cem Geyik (LinkedIn), Krishnaram Kenthapadi (Amazon AWS AI), Varun Mithal (LinkedIn), Ankur Taly (Fiddler Labs) Presented at Tutorial at FAT*2020, Barcelona, January 27th to 30th, 2020]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Krishna Gade (Fiddler Labs), Sahin Cem Geyik (LinkedIn), Krishnaram Kenthapadi (Amazon AWS AI), Varun Mithal (LinkedIn), Ankur Taly (Fiddler Labs) </p>
+
+
+
+<p class="has-text-align-center">Presented at Tutorial at FAT*2020, Barcelona, January 27th to 30th, 2020</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Explainable AI in Industry: Practical Challenges and Lessons Learned" width="580" height="326" src="https://www.youtube.com/embed/lcN-XJSsd-c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/explainable-ai-in-industry-practical-challenges-and-lessons-learned/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bias in Data-driven AI Systems &#8211; An Introductory Survey</title>
+		<link>/bias-in-data-driven-ai-systems-an-introductory-survey/</link>
+					<comments>/bias-in-data-driven-ai-systems-an-introductory-survey/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2020 01:06:23 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">/?p=443</guid>
+
+					<description><![CDATA[By Eirini Ntoutsia, Pavlos Fafaliosb, Ujwal Gadirajua, Vasileios Iosifidisa, Wolfgang Nejdla, Maria-Esther Vidalc, Salvatore Ruggierid, Franco Turinid, Symeon Papadopoulose, Emmanouil Krasanakise, Ioannis Kompatsiarise, Katharina Kinder-Kurlandaf, Claudia Wagnerf, Fariba Karimif, Miriam Fernandezg, Harith Alanig, Bettina Berendth, Tina Kruegeli, Christian Heinzei, Klaus Broelemannj, Gjergji Kasnecij, Thanassis Tiropanisk, Steffen Staaba https://arxiv.org/pdf/2001.09762.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Eirini Ntoutsia, Pavlos Fafaliosb, Ujwal Gadirajua, Vasileios Iosifidisa, Wolfgang Nejdla, Maria-Esther Vidalc, Salvatore Ruggierid, Franco Turinid, Symeon Papadopoulose, Emmanouil Krasanakise, Ioannis Kompatsiarise, Katharina Kinder-Kurlandaf, Claudia Wagnerf, Fariba Karimif, Miriam Fernandezg, Harith Alanig, Bettina Berendth, Tina Kruegeli, Christian Heinzei, Klaus Broelemannj, Gjergji Kasnecij, Thanassis Tiropanisk, Steffen Staaba</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/2001.09762.pdf">https://arxiv.org/pdf/2001.09762.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-28-at-21.05.35.png" alt="" class="wp-image-444" width="704" height="119" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-28-at-21.05.35.png 726w, /wp-content/uploads/2020/10/Screenshot-2020-10-28-at-21.05.35-300x51.png 300w" sizes="(max-width: 704px) 100vw, 704px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bias-in-data-driven-ai-systems-an-introductory-survey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing</title>
+		<link>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/</link>
+					<comments>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2020 01:01:15 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=440</guid>
+
+					<description><![CDATA[By Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron and Parker Barnes https://dl.acm.org/doi/abs/10.1145/3351095.3372873]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron and Parker Barnes</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3372873">https://dl.acm.org/doi/abs/10.1145/3351095.3372873</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="886" height="590" src="/wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21.png" alt="" class="wp-image-441" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21.png 886w, /wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21-300x200.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-28-at-20.59.21-768x511.png 768w" sizes="(max-width: 886px) 100vw, 886px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/closing-the-ai-accountability-gap-defining-an-end-to-end-framework-for-internal-algorithmic-auditing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Model Fairness and Interpretability</title>
+		<link>/model-fairness-and-interpretability/</link>
+					<comments>/model-fairness-and-interpretability/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 20:42:55 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[DEI]]></category>
+		<guid isPermaLink="false">/?p=437</guid>
+
+					<description><![CDATA[By DataBricks]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By DataBricks</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The Importance of Model Fairness and Interpretability in AI Systems" width="580" height="326" src="https://www.youtube.com/embed/UkavmOwzstM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/model-fairness-and-interpretability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hacking the Human Bias in AI</title>
+		<link>/hacking-the-human-bias-in-ai/</link>
+					<comments>/hacking-the-human-bias-in-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2020 15:41:19 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=417</guid>
+
+					<description><![CDATA[By Ayanna Howard]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Ayanna Howard</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Ayanna Howard - Hacking the Human Bias in AI" width="580" height="326" src="https://www.youtube.com/embed/ZpvouDlaukY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hacking-the-human-bias-in-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What are the Biases in my Word Embedding?</title>
+		<link>/what-are-the-biases-in-my-word-embedding/</link>
+					<comments>/what-are-the-biases-in-my-word-embedding/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2020 14:18:10 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=409</guid>
+
+					<description><![CDATA[By Nathaniel Swinger, Maria De-Arteaga, Neil Thomas Heffernan IV, Mark DM Leiserson and Adam Tauman Kalai https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_253.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Nathaniel Swinger, Maria De-Arteaga, Neil Thomas Heffernan IV, Mark DM Leiserson and Adam Tauman Kalai</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_253.pdf">https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_253.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.15.56-AM-1024x307.png" alt="" class="wp-image-410" width="735" height="219" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.15.56-AM-1024x307.png 1024w, /wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.15.56-AM-300x90.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.15.56-AM-768x230.png 768w, /wp-content/uploads/2020/10/Screenshot-2020-10-21-at-10.15.56-AM.png 1245w" sizes="(max-width: 735px) 100vw, 735px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/what-are-the-biases-in-my-word-embedding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fairness Through Awareness</title>
+		<link>/fairness-through-awareness/</link>
+					<comments>/fairness-through-awareness/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2020 18:54:22 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<guid isPermaLink="false">/?p=400</guid>
+
+					<description><![CDATA[By Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold and Richard Zemel https://arxiv.org/pdf/1104.3913.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold and <br>Richard Zemel</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/1104.3913.pdf">https://arxiv.org/pdf/1104.3913.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM.png" alt="" class="wp-image-401" width="782" height="341" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM.png 880w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM-300x131.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-20-at-2.53.13-PM-768x335.png 768w" sizes="(max-width: 782px) 100vw, 782px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fairness-through-awareness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Reducing Sentiment Polarity for Demographic Attributes in Word Embeddings using Adversarial Learning</title>
+		<link>/reducing-sentiment-polarity-for-demographic-attributes-in-word-embeddings-using-adversarial-learning/</link>
+					<comments>/reducing-sentiment-polarity-for-demographic-attributes-in-word-embeddings-using-adversarial-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 02:01:02 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=269</guid>
+
+					<description><![CDATA[By Chris Sweeney and Maryam Najafian https://dl.acm.org/doi/abs/10.1145/3351095.3372837]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Chris Sweeney and Maryam Najafian</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/abs/10.1145/3351095.3372837">https://dl.acm.org/doi/abs/10.1145/3351095.3372837</a></p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Reducing Sentiment Polarity for Demographic Attributes in Word Embeddings using Adversarial Learning" width="580" height="326" src="https://www.youtube.com/embed/OGKnWk9Cx3A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/reducing-sentiment-polarity-for-demographic-attributes-in-word-embeddings-using-adversarial-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

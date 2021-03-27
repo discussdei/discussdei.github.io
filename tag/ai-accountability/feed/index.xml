@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Accountability</title>
+	<atom:link href="/tag/ai-accountability/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Oct 2020 20:14:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>AI Accountability</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fairness-Aware Programming</title>
+		<link>/fairness-aware-programming/</link>
+					<comments>/fairness-aware-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 22:18:09 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">/?p=176</guid>
+
+					<description><![CDATA[By Aws Albarghouthi and Samuel Vinitsky https://dl.acm.org/doi/10.1145/3287560.3287588]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Aws Albarghouthi and Samuel Vinitsky</p>
+
+
+
+<p class="has-text-align-center"><a href="https://dl.acm.org/doi/10.1145/3287560.3287588">https://dl.acm.org/doi/10.1145/3287560.3287588</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.16.14-PM.png" alt="" class="wp-image-177" width="720" height="593" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.16.14-PM.png 837w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.16.14-PM-300x247.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-6.16.14-PM-768x633.png 768w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fairness-aware-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Challenges of Incorporating Algorithmic Fairness into Industry Practice</title>
+		<link>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/</link>
+					<comments>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 21:54:36 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<category><![CDATA[Fair Decisions]]></category>
+		<category><![CDATA[AI Fairness]]></category>
+		<category><![CDATA[Fair decisions]]></category>
+		<guid isPermaLink="false">/?p=164</guid>
+
+					<description><![CDATA[By Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf]]></description>
+										<content:encoded><![CDATA[
+<p>By Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright</p>
+
+
+
+<p><a href="https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf">https://algorithmicbiasinpractice.files.wordpress.com/2019/02/fat_2019tutorial_algorithmicbiasinpractice.pdf</a></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="FAT* 2019 Translation Tutorial: Challenges of incorporating algorithmic fairness" width="580" height="326" src="https://www.youtube.com/embed/UicKZv93SOY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/challenges-of-incorporating-algorithmic-fairness-into-industry-practice/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>In Pursuit of Inclusive AI</title>
+		<link>/in-pursuit-of-inclusive-ai/</link>
+					<comments>/in-pursuit-of-inclusive-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 16:09:35 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">/?p=142</guid>
+
+					<description><![CDATA[By Joyce Chou, Roger Ibars, Oscar Murillo https://data.designdiscussion.co/pdfs/post6.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Joyce Chou, Roger Ibars, Oscar Murillo</p>
+
+
+
+<p class="has-text-align-center"><a href="https://data.designdiscussion.co/pdfs/post6.pdf">https://data.designdiscussion.co/pdfs/post6.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-12.08.30-PM.png" alt="" class="wp-image-143" width="771" height="515" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-13-at-12.08.30-PM.png 999w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-12.08.30-PM-300x201.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-13-at-12.08.30-PM-768x514.png 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/in-pursuit-of-inclusive-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Interventions over Predictions- Reframing the Ethical Debate for Actuarial Risk Assessment</title>
+		<link>/interventions-over-predictions-reframing-the-ethical-debate-for-actuarial-risk-assessment/</link>
+					<comments>/interventions-over-predictions-reframing-the-ethical-debate-for-actuarial-risk-assessment/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 03:38:01 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">/?p=139</guid>
+
+					<description><![CDATA[By Chelsea Barabas, Karthik Dinakar, Joichi Ito, Madars Virza and Jonathan Zittrain http://proceedings.mlr.press/v81/barabas18a/barabas18a.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Chelsea Barabas, Karthik Dinakar, Joichi Ito, Madars Virza and <br>Jonathan Zittrain</p>
+
+
+
+<p class="has-text-align-center"><a href="http://proceedings.mlr.press/v81/barabas18a/barabas18a.pdf">http://proceedings.mlr.press/v81/barabas18a/barabas18a.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-11.37.00-PM.png" alt="" class="wp-image-140" width="737" height="474" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-11.37.00-PM.png 848w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-11.37.00-PM-300x193.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-11.37.00-PM-768x494.png 768w" sizes="(max-width: 737px) 100vw, 737px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/interventions-over-predictions-reframing-the-ethical-debate-for-actuarial-risk-assessment/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias</title>
+		<link>/ai-fairness-360-an-extensible-toolkit-for-detecting-understanding-and-mitigating-unwanted-algorithmic-bias/</link>
+					<comments>/ai-fairness-360-an-extensible-toolkit-for-detecting-understanding-and-mitigating-unwanted-algorithmic-bias/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 20:25:26 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">/?p=86</guid>
+
+					<description><![CDATA[by Rachel K. E. Bellamy,&#160;Kuntal Dey,&#160;Michael Hind,&#160;Samuel C. Hoffman,&#160;Stephanie Houde,&#160;Kalapriya Kannan,&#160;Pranay Lohia,&#160;Jacquelyn Martino,&#160;Sameep Mehta,&#160;Aleksandra Mojsilovic,&#160;Seema Nagar,&#160;Karthikeyan Natesan Ramamurthy,&#160;John Richards,&#160;Diptikalyan Saha,&#160;Prasanna Sattigeri,&#160;Moninder Singh,&#160;Kush R. Varshney,&#160;Yunfeng Zhang https://arxiv.org/abs/1810.01943]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Rachel K. E. Bellamy,&nbsp;Kuntal Dey,&nbsp;Michael Hind,&nbsp;Samuel C. Hoffman,&nbsp;Stephanie Houde,&nbsp;Kalapriya Kannan,&nbsp;Pranay Lohia,&nbsp;Jacquelyn Martino,&nbsp;Sameep Mehta,&nbsp;Aleksandra Mojsilovic,&nbsp;Seema Nagar,&nbsp;Karthikeyan Natesan Ramamurthy,&nbsp;John Richards,&nbsp;Diptikalyan Saha,&nbsp;Prasanna Sattigeri,&nbsp;Moninder Singh,&nbsp;Kush R. Varshney,&nbsp;Yunfeng Zhang</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/abs/1810.01943">https://arxiv.org/abs/1810.01943</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-7.06.53-PM-1024x537.png" alt="" class="wp-image-133" width="933" height="488" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-12-at-7.06.53-PM-1024x537.png 1024w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-7.06.53-PM-300x157.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-12-at-7.06.53-PM-768x403.png 768w" sizes="(max-width: 933px) 100vw, 933px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ai-fairness-360-an-extensible-toolkit-for-detecting-understanding-and-mitigating-unwanted-algorithmic-bias/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The OD Imperative to Add Inclusion to the Algorithms of Artificial Intelligence</title>
+		<link>/the-od-imperative-to-add-inclusion-to-the-algorithms-of-artificial-intelligence/</link>
+					<comments>/the-od-imperative-to-add-inclusion-to-the-algorithms-of-artificial-intelligence/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 19:00:11 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">/?p=66</guid>
+
+					<description><![CDATA[By Frederick A. Miller, Judith H. Katz, &#38; Roger Gans https://www.researchgate.net/profile/Roger_Gans2/publication/323830092_AI_x_I_AI2_The_OD_imperative_to_add_inclusion_to_the_algorithms_of_artificial_intelligence/links/5aad244e0f7e9b4897be932a/AI-x-I-AI2-The-OD-imperative-to-add-inclusion-to-the-algorithms-of-artificial-intelligence.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Frederick A. Miller, Judith H. Katz, &amp; Roger Gans</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.researchgate.net/profile/Roger_Gans2/publication/323830092_AI_x_I_AI2_The_OD_imperative_to_add_inclusion_to_the_algorithms_of_artificial_intelligence/links/5aad244e0f7e9b4897be932a/AI-x-I-AI2-The-OD-imperative-to-add-inclusion-to-the-algorithms-of-artificial-intelligence.pdf">https://www.researchgate.net/profile/Roger_Gans2/publication/323830092_AI_x_I_AI2_The_OD_imperative_to_add_inclusion_to_the_algorithms_of_artificial_intelligence/links/5aad244e0f7e9b4897be932a/AI-x-I-AI2-The-OD-imperative-to-add-inclusion-to-the-algorithms-of-artificial-intelligence.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-2.59.04-PM.png" alt="" class="wp-image-67" width="783" height="530" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-2.59.04-PM.png 797w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-2.59.04-PM-300x203.png 300w, /wp-content/uploads/2020/10/Screenshot-2020-10-11-at-2.59.04-PM-768x520.png 768w" sizes="(max-width: 783px) 100vw, 783px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-od-imperative-to-add-inclusion-to-the-algorithms-of-artificial-intelligence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sociotechnical Approach for Accountability by Design in AI Systems</title>
+		<link>/sociotechnical-approach-for-accountability-by-design-in-ai-systems/</link>
+					<comments>/sociotechnical-approach-for-accountability-by-design-in-ai-systems/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 02:58:25 +0000</pubDate>
+				<category><![CDATA[AI Accountability]]></category>
+		<guid isPermaLink="false">http://45.76.61.45/?p=53</guid>
+
+					<description><![CDATA[by Polyxeni Vassilakopoulou, University of Agder https://aisel.aisnet.org/ecis2020_rip/12/]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">by Polyxeni Vassilakopoulou, University of Agder</p>
+
+
+
+<p class="has-text-align-center"><a href="https://aisel.aisnet.org/ecis2020_rip/12/">https://aisel.aisnet.org/ecis2020_rip/12/</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="511" height="454" src="/wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.57.56-PM.png" alt="" class="wp-image-54" srcset="/wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.57.56-PM.png 511w, /wp-content/uploads/2020/10/Screenshot-2020-10-10-at-10.57.56-PM-300x267.png 300w" sizes="(max-width: 511px) 100vw, 511px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sociotechnical-approach-for-accountability-by-design-in-ai-systems/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

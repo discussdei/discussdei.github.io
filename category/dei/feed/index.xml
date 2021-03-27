@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DEI</title>
+	<atom:link href="/category/dei/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Jan 2021 04:30:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Peach-and-Blue-Faux-Organic-Home-Lifestyle-Logo-1-e1602729038770-32x32.png</url>
+	<title>DEI</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Solve AI Bias</title>
+		<link>/how-to-solve-ai-bias/</link>
+					<comments>/how-to-solve-ai-bias/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 04:30:11 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=541</guid>
+
+					<description><![CDATA[By Robin Bradley https://uhra.herts.ac.uk/bitstream/handle/2299/22716/How_to_Solve_AI_Bias_by_Robin_Bradley_v2.pdf?sequence=1&#38;isAllowed=y]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Robin Bradley</p>
+
+
+
+<p class="has-text-align-center"><a href="https://uhra.herts.ac.uk/bitstream/handle/2299/22716/How_to_Solve_AI_Bias_by_Robin_Bradley_v2.pdf?sequence=1&amp;isAllowed=y">https://uhra.herts.ac.uk/bitstream/handle/2299/22716/How_to_Solve_AI_Bias_by_Robin_Bradley_v2.pdf?sequence=1&amp;isAllowed=y</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-1024x183.png" alt="" class="wp-image-542" width="823" height="147" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-1024x183.png 1024w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-300x54.png 300w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM-768x137.png 768w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-11.29.27-PM.png 1110w" sizes="(max-width: 823px) 100vw, 823px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-solve-ai-bias/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Techniques to Eliminate Human Bias in Machine Learning</title>
+		<link>/techniques-to-eliminate-human-bias-in-machine-learning/</link>
+					<comments>/techniques-to-eliminate-human-bias-in-machine-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 03:44:29 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=531</guid>
+
+					<description><![CDATA[By Eishvak Sengupta, Dhruv Garg, Tanupriya Choudhury and Archit Agrawal https://ieeexplore.ieee.org/abstract/document/8746946]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Eishvak Sengupta, Dhruv Garg, Tanupriya Choudhury and Archit Agrawal</p>
+
+
+
+<p class="has-text-align-center"><a href="https://ieeexplore.ieee.org/abstract/document/8746946">https://ieeexplore.ieee.org/abstract/document/8746946</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM.png" alt="" class="wp-image-532" width="662" height="179" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM.png 783w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM-300x81.png 300w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-8.15.12-PM-768x208.png 768w" sizes="(max-width: 662px) 100vw, 662px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/techniques-to-eliminate-human-bias-in-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Evolution and impact of bias in human and machine learning algorithm interaction</title>
+		<link>/evolution-and-impact-of-bias-in-human-and-machine-learning-algorithm-interaction/</link>
+					<comments>/evolution-and-impact-of-bias-in-human-and-machine-learning-algorithm-interaction/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 23:47:21 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=528</guid>
+
+					<description><![CDATA[By Wenlong Sun, Olfa Nasraoui and Patrick Shafto https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Wenlong Sun, Olfa Nasraoui and Patrick Shafto</p>
+
+
+
+<p class="has-text-align-center"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="621" height="600" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.41.53-PM.png" alt="" class="wp-image-529" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.41.53-PM.png 621w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.41.53-PM-300x290.png 300w" sizes="(max-width: 621px) 100vw, 621px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/evolution-and-impact-of-bias-in-human-and-machine-learning-algorithm-interaction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bias in Machine Learning -What is it Good for?</title>
+		<link>/bias-in-machine-learning-what-is-it-good-for/</link>
+					<comments>/bias-in-machine-learning-what-is-it-good-for/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 23:37:16 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=525</guid>
+
+					<description><![CDATA[By Thomas Hellstrom, Virginia Dignum and Suna Bensch https://arxiv.org/pdf/2004.00686.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Thomas Hellstrom, Virginia Dignum and Suna Bensch</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/2004.00686.pdf">https://arxiv.org/pdf/2004.00686.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="754" height="453" src="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.35.23-PM.png" alt="" class="wp-image-526" srcset="/wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.35.23-PM.png 754w, /wp-content/uploads/2021/01/Screenshot-2021-01-12-at-6.35.23-PM-300x180.png 300w" sizes="(max-width: 754px) 100vw, 754px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bias-in-machine-learning-what-is-it-good-for/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Partnership in AI</title>
+		<link>/partnership-in-ai/</link>
+					<comments>/partnership-in-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2020 01:21:43 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<guid isPermaLink="false">/?p=518</guid>
+
+					<description><![CDATA[An organization/community dedicated to various themes with AI + Humanity including DEI: Link: https://www.partnershiponai.org/]]></description>
+										<content:encoded><![CDATA[
+<p>An organization/community dedicated to various themes with AI + Humanity including DEI:</p>
+
+
+
+<p>Link: https://www.partnershiponai.org/</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="905" height="801" src="/wp-content/uploads/2020/11/Screenshot-from-2020-11-21-19-19-47.png" alt="" class="wp-image-519" srcset="/wp-content/uploads/2020/11/Screenshot-from-2020-11-21-19-19-47.png 905w, /wp-content/uploads/2020/11/Screenshot-from-2020-11-21-19-19-47-300x266.png 300w, /wp-content/uploads/2020/11/Screenshot-from-2020-11-21-19-19-47-768x680.png 768w" sizes="(max-width: 905px) 100vw, 905px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/partnership-in-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Diversity and Inclusion Metrics in Subset Selection</title>
+		<link>/diversity-and-inclusion-metrics-in-subset-selection/</link>
+					<comments>/diversity-and-inclusion-metrics-in-subset-selection/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 21:55:38 +0000</pubDate>
+				<category><![CDATA[AI Fairness and Implications]]></category>
+		<category><![CDATA[DEI]]></category>
+		<guid isPermaLink="false">/?p=507</guid>
+
+					<description><![CDATA[By Margaret Mitchell, Dylan Baker, Nyalleng Moorosi, Emily Denton, Ben Hutchinson, Alex Hanna, Timnit Gebru and Jamie Morgenstern https://arxiv.org/pdf/2002.03256.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Margaret Mitchell, Dylan Baker, Nyalleng Moorosi, Emily Denton, Ben Hutchinson, Alex Hanna, Timnit Gebru and Jamie Morgenstern</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/2002.03256.pdf">https://arxiv.org/pdf/2002.03256.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.54.41-PM.png" alt="" class="wp-image-508" width="631" height="357" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.54.41-PM.png 576w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.54.41-PM-300x170.png 300w" sizes="(max-width: 631px) 100vw, 631px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/diversity-and-inclusion-metrics-in-subset-selection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How Can AI Help to Enhance Diversity and Inclusion</title>
+		<link>/how-can-ai-help-to-enhance-diversity-and-inclusion/</link>
+					<comments>/how-can-ai-help-to-enhance-diversity-and-inclusion/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 21:51:36 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<guid isPermaLink="false">/?p=504</guid>
+
+					<description><![CDATA[By Keng Siau https://www.researchgate.net/publication/333296415_How_Can_AI_Help_to_Enhance_Diversity_and_Inclusion]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Keng Siau</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.researchgate.net/publication/333296415_How_Can_AI_Help_to_Enhance_Diversity_and_Inclusion">https://www.researchgate.net/publication/333296415_How_Can_AI_Help_to_Enhance_Diversity_and_Inclusion</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="628" height="681" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.50.43-PM.png" alt="" class="wp-image-505" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.50.43-PM.png 628w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.50.43-PM-277x300.png 277w" sizes="(max-width: 628px) 100vw, 628px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-can-ai-help-to-enhance-diversity-and-inclusion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adversarial Removal of Gender from Deep Image Representations</title>
+		<link>/adversarial-removal-of-gender-from-deep-image-representations/</link>
+					<comments>/adversarial-removal-of-gender-from-deep-image-representations/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 21:43:52 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=501</guid>
+
+					<description><![CDATA[By Tianlu Wang, Jieyu Zhao, Mark Yatskar, Kai-Wei Chang &#38; Vicente Ordonez https://arxiv.org/pdf/1811.08489.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Tianlu Wang, Jieyu Zhao, Mark Yatskar, Kai-Wei Chang &amp; Vicente Ordonez</p>
+
+
+
+<p class="has-text-align-center"><a href="https://arxiv.org/pdf/1811.08489.pdf">https://arxiv.org/pdf/1811.08489.pdf</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.42.22-PM.png" alt="" class="wp-image-502" width="585" height="547" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.42.22-PM.png 474w, /wp-content/uploads/2020/11/Screenshot-2020-11-17-at-4.42.22-PM-300x280.png 300w" sizes="(max-width: 585px) 100vw, 585px" /></figure></div>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/adversarial-removal-of-gender-from-deep-image-representations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Effects of Talker Dialect, Gender &#038; Race on Accuracy of Bing Speech and YouTube Automatic Captions</title>
+		<link>/effects-of-talker-dialect-gender-race-on-accuracy-of-bing-speech-and-youtube-automatic-captions/</link>
+					<comments>/effects-of-talker-dialect-gender-race-on-accuracy-of-bing-speech-and-youtube-automatic-captions/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 01:28:38 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Identifying Biases]]></category>
+		<guid isPermaLink="false">/?p=480</guid>
+
+					<description><![CDATA[By Rachael Tatman and Conner Kasten https://pdfs.semanticscholar.org/1080/dc00733e010fdd6a9b999506a0d4d864519d.pdf]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Rachael Tatman and Conner Kasten</p>
+
+
+
+<p class="has-text-align-center"><a href="https://pdfs.semanticscholar.org/1080/dc00733e010fdd6a9b999506a0d4d864519d.pdf">https://pdfs.semanticscholar.org/1080/dc00733e010fdd6a9b999506a0d4d864519d.pdf</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="652" height="496" src="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.27.38.png" alt="" class="wp-image-481" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.27.38.png 652w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-20.27.38-300x228.png 300w" sizes="(max-width: 652px) 100vw, 652px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/effects-of-talker-dialect-gender-race-on-accuracy-of-bing-speech-and-youtube-automatic-captions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>21 Fairness Definitions and Their Politics</title>
+		<link>/21-fairness-definitions-and-their-politics/</link>
+					<comments>/21-fairness-definitions-and-their-politics/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 00:59:01 +0000</pubDate>
+				<category><![CDATA[DEI]]></category>
+		<category><![CDATA[General Topics]]></category>
+		<guid isPermaLink="false">/?p=464</guid>
+
+					<description><![CDATA[By Arvind Narayanan (Princeton University) https://nyulaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df974dd7-86b9-4f93-b6cd-a88d012606a9&#38;start=7.177368]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center">By Arvind Narayanan (Princeton University)</p>
+
+
+
+<p class="has-text-align-center"><a href="https://nyulaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df974dd7-86b9-4f93-b6cd-a88d012606a9&amp;start=7.177368">https://nyulaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df974dd7-86b9-4f93-b6cd-a88d012606a9&amp;start=7.177368</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="535" src="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-1024x535.png" alt="" class="wp-image-465" srcset="/wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-1024x535.png 1024w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-300x157.png 300w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-768x401.png 768w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03-1200x627.png 1200w, /wp-content/uploads/2020/11/Screenshot-2020-11-04-at-19.58.03.png 1364w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" ;="" class="twitter-share-button" data-show-count="false" data-show="large">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" ;="" charset="utf-8"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/21-fairness-definitions-and-their-politics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

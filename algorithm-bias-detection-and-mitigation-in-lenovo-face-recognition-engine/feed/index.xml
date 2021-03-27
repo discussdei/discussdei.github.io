@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Algorithm Bias Detection and Mitigation in Lenovo Face Recognition Engine	</title>
+	<atom:link href="/algorithm-bias-detection-and-mitigation-in-lenovo-face-recognition-engine/feed/" rel="self" type="application/rss+xml" />
+	<link>/algorithm-bias-detection-and-mitigation-in-lenovo-face-recognition-engine/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Oct 2020 20:10:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+</channel>
+</rss>
